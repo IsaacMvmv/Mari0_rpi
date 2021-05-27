@@ -10,7 +10,7 @@ sudo apt-get install -y libc6 libfreetype6 libgcc1 libluajit-5.1-2 libmodplug1 l
 ```
 Or if you have pacman package manager run:
 ```
-sudo pacman -S desktop-file-utils freetype2 hicolor-icon-theme libmodplug libtheora libvorbis luajit mpg123 openal sdl2 shared-mime-info
+sudo pacman -S --needed desktop-file-utils freetype2 hicolor-icon-theme libmodplug libtheora libvorbis luajit mpg123 openal sdl2 shared-mime-info
 ```
 ## 2. Clone repo with git clone https://github.com/IsaacMvmv/Mari0_rpi
 ## 3. Cd to repo
