@@ -8,7 +8,7 @@ This repo contains a compiled love-11 and mari0 game with its depencencies and a
 ```
 sudo apt-get install -y libc6 libfreetype6 libgcc1 libluajit-5.1-2 libmodplug1 libmpg123-0 libogg0 libopenal1 libsdl2-2.0-0 libstdc++6 libtheora0 libvorbisfile3 zlib1g
 ```
-Or if you have pac man run:
+Or if you have pacman package manager run:
 ```
 sudo pacman -S desktop-file-utils freetype2 hicolor-icon-theme libmodplug libtheora libvorbis luajit mpg123 openal sdl2 shared-mime-info
 ```
