@@ -1,5 +1,5 @@
 # Mari0_rpi
-Hey, just compiled love-10 and mari0 game with its depencencies, I create also a launch script to... launch :D
+Hey, just compiled love-11 and mari0 game with its depencencies, I create also a launch script to... launch :D
 
 # Instructions
 1. Install deps
