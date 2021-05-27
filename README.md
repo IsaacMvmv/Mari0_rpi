@@ -12,6 +12,8 @@ Or if you have pac man run:
 ```
 sudo pacman -S desktop-file-utils freetype2 hicolor-icon-theme libmodplug libtheora libvorbis luajit mpg123 openal sdl2 shared-mime-info
 ```
+Or if that fails, you can install manually love by dpkg -i debs/*
+
 ## 2. Clone repo with git clone https://github.com/IsaacMvmv/Mari0_rpi
 ## 3. Cd to repo
 ## 4. Give execution permission to launch.sh and love_armhf/love
