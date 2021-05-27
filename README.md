@@ -1,6 +1,6 @@
 # Mari0_rpi
 
-This repo contains a compiled love-11 and mari0 game with its depencencies and a launcher.
+This repo contains a compiled love-11 with mari0 game and a launcher script.
 
 # Instructions
 ## 1. Install dependencies:
