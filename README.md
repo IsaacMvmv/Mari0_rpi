@@ -12,9 +12,9 @@ Or if you have pacman package manager run:
 ```
 sudo pacman -S --needed desktop-file-utils freetype2 hicolor-icon-theme libmodplug libtheora libvorbis luajit mpg123 openal sdl2 shared-mime-info
 ```
-## 2. Clone repo with git clone https://github.com/IsaacMvmv/Mari0_rpi
+## 2. Clone repo with ```git clone https://github.com/IsaacMvmv/Mari0_rpi```
 ## 3. Cd to repo
-## 4. Give execution permission to launch.sh and love_armhf/love
+## 4. Give execution permission to launch.sh and love_armhf/love like ```chmod +x launch.sh love_armhf/love```
 ## 5. run script and enjoy :D
 
 # Trailer
