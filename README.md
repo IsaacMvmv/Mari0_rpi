@@ -12,7 +12,7 @@ Or if you have pacman package manager just run:
 ```
 sudo pacman -S --needed mari0
 ```
-After running that, run mari0 in terminal or find its desktop shortcut :)
+After running that, run mari0 in terminal or find its desktop shortcut :). You dont need to follow next steps
 
 ## 2. Clone repo with ```git clone https://github.com/IsaacMvmv/Mari0_rpi```
 ## 3. Cd to repo
