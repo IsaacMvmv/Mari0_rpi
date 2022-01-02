@@ -1,6 +1,6 @@
 # Mari0_rpi
 
-This repo contains a compiled love-11 with mari0 game and a launcher script.
+This repo contains mari0 game and a launcher script.
 
 # Instructions
 ## 1. Install dependencies:
@@ -8,13 +8,15 @@ This repo contains a compiled love-11 with mari0 game and a launcher script.
 ```
 sudo apt-get install -y libc6 libfreetype6 libgcc1 libluajit-5.1-2 libmodplug1 libmpg123-0 libogg0 libopenal1 libsdl2-2.0-0 libstdc++6 libtheora0 libvorbisfile3 zlib1g
 ```
-Or if you have pacman package manager run:
+Or if you have pacman package manager just run:
 ```
-sudo pacman -S --needed desktop-file-utils freetype2 hicolor-icon-theme libmodplug libtheora libvorbis luajit mpg123 openal sdl2 shared-mime-info
+sudo pacman -S --needed mari0
 ```
+After running that, run mari0 in terminal or find its desktop shortcut :)
+
 ## 2. Clone repo with ```git clone https://github.com/IsaacMvmv/Mari0_rpi```
 ## 3. Cd to repo
-## 4. Give execution permission to launch.sh and love_armhf/love like ```chmod +x launch.sh love_armhf/love```
+## 4. Give execution permission to launch.sh and love_armhf/love like ```chmod +x launch.sh```
 ## 5. run script and enjoy :D
 
 # Trailer
