@@ -6,7 +6,7 @@ This repo contains mari0 game and a launcher script.
 ## 1. Install dependencies:
 ### Run the following command:
 ```
-sudo apt-get install -y libc6 libfreetype6 libgcc1 libluajit-5.1-2 libmodplug1 libmpg123-0 libogg0 libopenal1 libsdl2-2.0-0 libstdc++6 libtheora0 libvorbisfile3 zlib1g
+sudo apt-get install -y love libc6 libfreetype6 libgcc1 libluajit-5.1-2 libmodplug1 libmpg123-0 libogg0 libopenal1 libsdl2-2.0-0 libstdc++6 libtheora0 libvorbisfile3 zlib1g
 ```
 Or if you have pacman package manager just run:
 ```
